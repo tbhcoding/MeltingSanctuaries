@@ -24,8 +24,8 @@ Melting Sanctuaries is my first collaborative web project, built as a creative i
 
 ## Live Demo
 
-If GitHub Pages is enabled, the site will be available here:  
-👉 [https://tbhcoding.github.io/MeltingSanctuaries/](https://tbhcoding.github.io/MeltingSanctuaries/)
+Step into the frozen world of **Melting Sanctuaries**:  
+[https://tbhcoding.github.io/MeltingSanctuaries/](https://tbhcoding.github.io/MeltingSanctuaries/)
 
 ---
 
