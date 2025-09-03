@@ -1,0 +1,32 @@
+@font-face {
+    font-family: customFont1;
+    src: url(fonts/Poppins-SemiBold.ttf);
+  }
+  body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    background-color: #425b77;
+    font-family: customFont1;
+    color: aliceblue
+  }
+  .row {
+    overflow: hidden;
+    margin-bottom: 20px;
+    display: flex; /* Use flexbox for each row */
+  }
+  .row img {
+    width: 400px; /* Set the width to your desired size */
+    height: auto; /* Maintain aspect ratio */
+    padding: 7%;
+    transform: rotate(10deg);
+  }
+  .image2 {
+    justify-content: flex-end;
+  }
+  .image2 img{
+    transform: rotate(-10deg);
+  }
+ 

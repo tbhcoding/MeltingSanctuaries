@@ -1,0 +1,29 @@
+@font-face {
+    font-family: customFont1;
+    src: url(fonts/Poppins-SemiBold.ttf);
+  }
+  body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    background-color: #425b77;
+    font-family: customFont1;
+    color: aliceblue
+  }
+  .row {
+    overflow: hidden;
+    margin-bottom: 20px;
+    display: flex; /* Use flexbox for each row */
+  }
+  .image2 {
+    justify-content: flex-end; /* Align to the right */
+  }
+  .image1,
+  .image3 {
+    flex: 1; /* Make the first and third images take equal space */
+  }
+  .image2 {
+    flex: 2; /* Make the second image take more space */
+  }
