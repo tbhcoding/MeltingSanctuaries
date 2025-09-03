@@ -27,22 +27,14 @@ Melting Sanctuaries is my first collaborative web project, built as a creative i
 Step into the frozen world of **Melting Sanctuaries**:  
 [https://tbhcoding.github.io/MeltingSanctuaries/](https://tbhcoding.github.io/MeltingSanctuaries/)
 
-On the homepage, click **"MELTING SANCTUARIES"** (the big title) to trigger the **snowfall animation / snow magic** ✨  
+On the homepage, click **"MELTING SANCTUARIES"** (the big title) to trigger the **snowfall animation / snow magic**  ⋆꙳•̩̩͙❅*̩̩͙‧͙    ‧͙*̩̩͙❆ ͙͛ ˚₊⋆ 
 
  ---
 
 ## 🔧 Notes (Work in Progress)
 
 - Some **buttons** on some subpages (e.g., Animals, Support, Connect) may not redirect properly yet.  This is because of relative path adjustments needed for GitHub Pages. A fix is in progress.  
-
 - For now, to return to the homepage from any subpage, use your browser’s **Back button**
-
----
-
----
-
-## Notes
-
 - This was my first website project, created with a team.  
 - The codebase is unpolished, but it reflects the learning process.  
 - Some images are very large; future improvements include compression or moving assets to Git LFS.  
