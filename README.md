@@ -28,6 +28,7 @@ Step into the frozen world of **Melting Sanctuaries**:
 [https://tbhcoding.github.io/MeltingSanctuaries/](https://tbhcoding.github.io/MeltingSanctuaries/)
 
 On the homepage, click **"MELTING SANCTUARIES"** (the big title) to trigger the **snowfall animation / snow magic** ✨  
+
  ---
 
 ## 🔧 Notes (Work in Progress)
