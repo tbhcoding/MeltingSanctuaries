@@ -31,7 +31,7 @@ On the homepage, click **"MELTING SANCTUARIES"** (the big title) to trigger the 
 
  ---
 
-## 🔧 Notes (Work in Progress)
+## Notes (Work in Progress)
 
 - Some **buttons** on some subpages (e.g., Animals, Support, Connect) may not redirect properly yet.  This is because of relative path adjustments needed for GitHub Pages. A fix is in progress.  
 - For now, to return to the homepage from any subpage, use your browser’s **Back button**
