@@ -1,4 +1,4 @@
-# MeltingSanctuaries
+# Melting Sanctuaries
 
 Melting Sanctuaries is my first collaborative web project, built as a creative introduction to web development. While the file organization reflects the learning stage, the project captures an immersive glacial atmosphere through glacier animations, particle effects, and parallax scrolling.
 
